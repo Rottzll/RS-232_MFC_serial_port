@@ -1,0 +1,17 @@
+﻿빌드 시작: 2021-01-27 오후 4:26:50
+     1>2 노드의 "C:\Users\Envinode\Documents\Visual Studio 2013\Projects\MFCserial\MFCserial\MFCserial.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCserial.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCserialDlg.cpp
+         MFCserialDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Envinode\Documents\Visual Studio 2013\Projects\MFCserial\Debug\MFCserial.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Envinode\Documents\Visual Studio 2013\Projects\MFCserial\Debug\MFCserial.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Envinode\Documents\Visual Studio 2013\Projects\MFCserial\Debug\MFCserial.lib" /MACHINE:X86 Debug\MFCserial.res
+         Debug\MFCserial.obj
+         Debug\MFCserialDlg.obj
+         Debug\Mycomm.obj
+         Debug\stdafx.obj
+         MFCserial.vcxproj -> C:\Users\Envinode\Documents\Visual Studio 2013\Projects\MFCserial\Debug\MFCserial.exe
+     1>"C:\Users\Envinode\Documents\Visual Studio 2013\Projects\MFCserial\MFCserial\MFCserial.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.53
